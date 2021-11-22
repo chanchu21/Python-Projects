@@ -1,5 +1,7 @@
 **Python Mini-Projects**
 
+**Please check _master_ Branch**
+
 1. Num_guessing_game
 2. Rock,paper,scissor_game
 3. Basic Calculator
