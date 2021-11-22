@@ -7,3 +7,4 @@
 3. Basic Calculator
 4. Basic_Madlib_game
 5. Word_guess_game
+6. Bike_Rental
