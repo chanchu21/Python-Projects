@@ -1,6 +1,6 @@
 **Python Mini-Projects**
 
-**Please check _master_ Branch**
+**Please check _master_ Branch for the source code.**
 
 1. Num_guessing_game
 2. Rock,paper,scissor_game
